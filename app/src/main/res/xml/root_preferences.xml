@@ -37,6 +37,9 @@
             app:summary="@string/leveler_summary"
             app:title="@string/leveler_title" />
 
+        <ListPreference
+            app:key="storage" />
+
     </PreferenceCategory>
 
     <PreferenceCategory
